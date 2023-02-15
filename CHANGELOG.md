@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/uzenith360/browser-file-download/compare/v1.0.0...v1.0.1) (2023-02-15)
+
+
+### Bug Fixes
+
+* bug fix ([afbaa34](https://github.com/uzenith360/browser-file-download/commit/afbaa34ac9ca664835a86e2ae1b5242a1faf6ff4))
+
 # 1.0.0 (2023-02-15)
 
 
